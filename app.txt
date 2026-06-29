@@ -1,1 +1,1 @@
-This is feature branch update.
+This is feature branch conflicting change.This is feature branch update.
